@@ -26,6 +26,5 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la tecnología y el de
 ## 📬 Contacto  
 ¡Siéntete libre de contactarme para colaborar o conversar sobre tecnología! 
 [![Instagram](https://img.shields.io/badge/-jesus_tuz.may-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jesus_tuz.may/profilecard/?igsh=ZWZhaW4zYXR2OWFy)
-
 [![Facebook](https://img.shields.io/badge/-Emmanuel_Tuz_May-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EzahQ1vQy/)
 
