@@ -20,9 +20,6 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por la tecnología y el de
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Yii2](https://img.shields.io/badge/-Yii2-0078D7?style=flat&logo=yii&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 
 
-## 📊 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=JesusTz&show_icons=true&theme=radical)  
-
 ## 📬 Contacto  
 
 [![Instagram](https://img.shields.io/badge/-jesus_tuz.may-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jesus_tuz.may/profilecard/?igsh=ZWZhaW4zYXR2OWFy)  
